@@ -1,0 +1,2 @@
+# Tindog
+Basic bootstrap knowledge
