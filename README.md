@@ -1,2 +1,1 @@
-# Tindog
-Basic bootstrap knowledge
+TinDog Starting Files
